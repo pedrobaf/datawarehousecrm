@@ -1,5 +1,5 @@
-# datawarehousecrm
-### **README - Sistema de CRM e Vendas da ZapFlow**
+# Data Warehouse CRM
+### **README - Sistema de CRM e Vendas**
 
 Esse repositório é sobre análise de dados de vendas utilizando SQL, com foco em consultas essenciais para monitoramento de desempenho e identificação de padrões de vendas.
 
@@ -30,7 +30,7 @@ Esse repositório é sobre análise de dados de vendas utilizando SQL, com foco 
 
 ### **Introdução**
 
-O Sistema de CRM e Vendas da ZapFlow utiliza SQL para realizar análises detalhadas das vendas. Com a ajuda dessas consultas, é possível obter insights sobre o desempenho dos produtos, identificar tendências e detectar possíveis fraudes. Este README detalha as principais queries utilizadas no projeto e explica a importância de cada análise.
+O Sistema de CRM e Vendas utiliza SQL para realizar análises detalhadas das vendas. Com a ajuda dessas consultas, é possível obter insights sobre o desempenho dos produtos, identificar tendências e detectar possíveis fraudes. Este README detalha as principais queries utilizadas no projeto e explica a importância de cada análise.
 
 ### **Importância da Análise de Dados**
 
@@ -159,7 +159,7 @@ ORDER BY
 - Filtra vendas com valores abaixo de 6 mil reais dentro do período específico.
 - **Importância:** Ajuda a focar em vendas menores que podem representar o grosso do volume de vendas ou identificar produtos de menor ticket médio.
 
-### **Atualização do README - Sistema de CRM e Vendas da ZapFlow**
+### **Atualização do README - Sistema de CRM e Vendas**
 
 Adicionei as duas últimas CTEs completas da parte um de SQL para as queries de agregação de vendas por dia e produto e agregação por vendedor. Veja as descrições e o código completo das CTEs para realizar essas análises no contexto do projeto de vendas:
 
@@ -263,9 +263,9 @@ Essas CTEs são fundamentais para aprofundar a análise das vendas no sistema de
 
 Essas análises ajudam a visualizar e interpretar os dados de vendas, identificando padrões, comportamentos fora do comum e possibilitando decisões mais assertivas no dia a dia do negócio.
 
-### Introdução do que vamos fazer hoje
+### Modelagem de Dados
 
-Hoje, vamos mergulhar nas práticas de modelagem de dados utilizando o dbt, explorando as camadas Bronze, Silver, e Gold. Nosso objetivo é entender como os dados brutos são transformados passo a passo, até chegarem em um formato pronto para análise e tomada de decisões.
+Aqui vamos mergulhar nas práticas de modelagem de dados utilizando o dbt, explorando as camadas Bronze, Silver, e Gold. Nosso objetivo é entender como os dados brutos são transformados passo a passo, até chegarem em um formato pronto para análise e tomada de decisões.
 
 ### Diagrama de Fluxo das Camadas Bronze, Silver e Gold no DBT
 
