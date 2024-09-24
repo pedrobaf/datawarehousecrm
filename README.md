@@ -478,6 +478,6 @@ dbt run
 
 ### **Conclusão**
 
-Este README detalha a importância de analisar os dados de vendas usando SQL, explicando passo a passo cada query utilizada no projeto de CRM e Vendas da ZapFlow. As queries apresentadas fornecem uma base sólida para entender o comportamento de vendas, identificar padrões e ajustar estratégias de negócio, proporcionando uma vantagem competitiva significativa no mercado.
+Este README detalha a importância de analisar os dados de vendas usando SQL, explicando passo a passo cada query utilizada no projeto de CRM e Vendas. As queries apresentadas fornecem uma base sólida para entender o comportamento de vendas, identificar padrões e ajustar estratégias de negócio, proporcionando uma vantagem competitiva significativa no mercado.
 
 As análises realizadas não só ajudam a visualizar o desempenho atual, mas também preparam as empresas para futuras decisões estratégicas, garantindo que as operações sejam orientadas por dados e insights acionáveis.
